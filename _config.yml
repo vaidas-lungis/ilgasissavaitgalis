@@ -1,0 +1,15 @@
+# Site settings
+title: Ar jau ilgasis savaitgalis?
+email: info@ilgasissavaitgalis.lt
+description: > # this means to ignore newlines until "baseurl:"
+  Ar jau ilgasis savaitgalis?
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "ilgasissavaitgalis.lt" # the base hostname & protocol for your site
+
+# User setting
+email: info@ilgasissavaitgalis.lt
+copyright: ilgasissavaitgalis.lt
+
+
+# Build settings
+markdown: kramdown
